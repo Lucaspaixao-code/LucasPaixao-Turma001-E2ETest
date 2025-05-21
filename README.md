@@ -1,4 +1,4 @@
-# Playwright E2E
+# E2E Study Test 
 
 ## GitHub Actions + SonarCloud
 
